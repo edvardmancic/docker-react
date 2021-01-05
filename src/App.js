@@ -6,9 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload. Container CHECK update workflow!!
-        </p>
+        <h1>Anja Srecan ti rodjendan Tato</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
